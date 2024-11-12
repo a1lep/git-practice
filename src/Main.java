@@ -6,10 +6,8 @@ public class Main {
         String tekst = "New message";
         String message = "Hello!";
         int number1 = 9;
+        System.out.println("Täna on teisipäev!");
 
-        System.out.println(tekst + message);
-        String lause ="Tere-tere!";
-        int number = 10;
-        System.out.println(number);
+
     }
 }
